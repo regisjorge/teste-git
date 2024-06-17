@@ -3,3 +3,6 @@ curso
 curso2
 curso3
 novo_page
+
+page_home
+
