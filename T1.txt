@@ -1,12 +1,9 @@
 novo teste teste
 curso
 curso2
-<<<<<<< HEAD
 page_home_2
-=======
 curso3
 novo_page_1
 
 page_home
 
->>>>>>> main
