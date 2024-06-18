@@ -2,7 +2,7 @@ novo teste teste
 curso
 curso2
 curso3
-novo_page
+novo_page_1
 
 page_home
 
